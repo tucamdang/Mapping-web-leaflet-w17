@@ -25,4 +25,4 @@ Using Leaflet to creat a map which plots all earthquake based on Longitutude and
       - Plot a second data set on our map
       - Add few overlays/ base map
       
-![5-Advanced](https://user-images.githubusercontent.com/99168697/174476755-7aea3203-f6c6-4869-8b11-df1052af5103.png)
+![image](https://user-images.githubusercontent.com/99168697/174482711-6843a917-af09-4aa5-97a7-6890fa9b31fa.png)
